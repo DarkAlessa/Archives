@@ -1,0 +1,3 @@
+C:/Users/nuker/Documents/CodeNPEX/GUI_Programming/CMakeGTK/build/CMakeFiles/rebuild_cache.dir
+C:/Users/nuker/Documents/CodeNPEX/GUI_Programming/CMakeGTK/build/CMakeFiles/hello.dir
+C:/Users/nuker/Documents/CodeNPEX/GUI_Programming/CMakeGTK/build/CMakeFiles/edit_cache.dir
